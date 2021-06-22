@@ -1,7 +1,7 @@
 {
     "Header": {
 
-        "title": "We are a Landing Page",
+        "title": "Where the mic is always open.",
         "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
 
     },
@@ -105,10 +105,11 @@
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
-        "facebook": "fb.com",
+        "address": "121 North Shore Drive",
+        "address2": "Surf City, NC 28445",
+        "phone": "(860)205-7313",
+        "email": "secondrow.sc@gmail.com",
+        "facebook": "https://www.facebook.com/thesecondrowsurfcity",
         "twitter": "twitter.com",
         "youtube": "youtube.com"
     },
