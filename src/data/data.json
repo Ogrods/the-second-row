@@ -114,24 +114,34 @@
         "youtube": "youtube.com"
     },
     "Features": [{
-            "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-beer",
+            "title": "Beer, Wine, and Snacks",
+            "text": "Bottles, cans, and beer on tap as well cold white wine, red wine, flights, growlers for carry out and kegs for order. Snacks available and outside food welcome!"
         },
         {
-            "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-music",
+            "title": "Live Music",
+            "text": "Open Mic/Open Jam all day every day, except during live performances. Check our facebook page for upcoming events!"
+        },
+        {
+            "icon": "fa fa-sun-o",
+            "title": "Outdoor Seating",
+            "text": "Enjoy relaxing bistro seating on the front porch, or bring the whole crew to our large deck and sit in our comfortable seating area."
         },
         {
             "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Event Hosting",
+            "text": "Call ahead for your birthday party, graduation or team event and we can accomodate for large reservations! Bring the whole family and enjoy."
         },
         {
-            "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-wrench",
+            "title": "Guitar Shop",
+            "text": "We have guitar picks, capos, straps, and a variety of strings. Refurbished guitars available with constantly cycling inventory. Inquire with Bernie for lessons!"
+        },
+        {
+            "icon": "fa fa-gift",
+            "title": "Gifts and more",
+            "text": "We welcome ‘Idle Nomad Gift Shop’ to our unique little taproom! Audrey and Luke have a little something for everyone here."
         }
     ]
 }
