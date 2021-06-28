@@ -1,4 +1,4 @@
-# React JS Landing Page Template
+# React JS Landing Page Template Dan O
 
 
 ### <a href="https://react-landing-page-template.herokuapp.com">LIVE DEMO</a> 
