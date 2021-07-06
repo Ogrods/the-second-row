@@ -42,7 +42,7 @@ export const Contact = (props) => {
                 <h2>Get In Touch</h2>
                 <p>
                   Please fill out the form below to send us an email and we will
-                  get back to you as soon as possible.
+                  get back to you as soon as possible!
                 </p>
               </div>
               <form name='sentMessage' validate onSubmit={handleSubmit}>
@@ -128,18 +128,13 @@ export const Contact = (props) => {
               <div className='social'>
                 <ul>
                   <li>
-                    <a href={props.data ? props.data.facebook : '/'}>
+                    <a href={props.data ? props.data.facebook : '/'} target="_blank">
                       <i className='fa fa-facebook'></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.twitter : '/'}>
-                      <i className='fa fa-twitter'></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href={props.data ? props.data.youtube : '/'}>
-                      <i className='fa fa-youtube'></i>
+                    <a href={props.data ? props.data.instagram : '/'} target="_blank">
+                      <i className='fa fa-instagram'></i>
                     </a>
                   </li>
                 </ul>
@@ -152,7 +147,7 @@ export const Contact = (props) => {
         <div className='container text-center'>
           <p>
             &copy; 2021 Design by{' '}
-            <a href='http://www.danogrodnik.com' rel='nofollow'>
+            <a href='http://www.danogrodnik.com' rel='nofollow' target="_blank">
               Dan Ogrodnik
             </a>
           </p>

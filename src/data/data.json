@@ -1,17 +1,21 @@
 {
     "Header": {
 
-        "title": "Where the mic is always open.",
+        "title": "If we're open,",
+        "title2": "so is the mic",
         "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+        "paragraph": "It started with a dream, and it took a while, but it happened! A programmer/ musician and a pharmacist have finally found their happy place and it is in Surf City, NC. Three wonderful kids, four dogs, two cats, and a cyclone of family and friends have been our moral support to get us to our place here in the sun. Thirty-nine years of marriage has made us strong and determined to spend the rest of our love and lives doing what we love to do, and that is to provide beer, wine, and entertainment. Hopefully you can find time during your busy vacation to visit us at The Second Row! P.S. There are 2 resident pups, and their names are Lilly and K.C.",
+        "Hours": [
+            "Monday - 12pm to 10pm",
+            "Tuesday - 12pm to 10pm",
+            "Wednesday - 12pm to 10pm",
+            "Thursday - 12pm to 10pm",
+            "Friday - 10am to 11pm",
+            "Saturday - 10am to 11pm",
+            "Sunday - 10am to 6pm"
         ],
         "Why2": [
             "Aliquip ex ea commodo",
@@ -107,10 +111,10 @@
     "Contact": {
         "address": "121 North Shore Drive",
         "address2": "Surf City, NC 28445",
-        "phone": "(860)205-7313",
+        "phone": "(860) 205-7313",
         "email": "secondrow.sc@gmail.com",
         "facebook": "https://www.facebook.com/thesecondrowsurfcity",
-        "twitter": "twitter.com",
+        "instagram": "https://www.instagram.com/secondrow.sc",
         "youtube": "youtube.com"
     },
     "Features": [{
@@ -126,7 +130,7 @@
         {
             "icon": "fa fa-sun-o",
             "title": "Outdoor Seating",
-            "text": "Enjoy relaxing bistro seating on the front porch, or bring the whole crew to our large deck and sit in our comfortable seating area."
+            "text": "Enjoy relaxing bistro seating on the front porch, or bring the whole crew to our large deck and sit in our comfortable dog friendly seating area! (leash only)"
         },
         {
             "icon": "fa fa-group",
