@@ -2,8 +2,8 @@
     "Header": {
 
         "title": "If we're open,",
-        "title2": "so is the mic",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "title2": "so is the mic!",
+        "paragraph": "A bright friendly beach atmosphere, open mic all the time with a no judgement zone. We set you up anytime you walk in, and we welcome an open jam with other musicians that might be here to join in."
 
     },
     "About": {
@@ -59,18 +59,18 @@
     ],
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "text": "\"The Second Row is a great place for all kinds of music. All are welcome here!\"",
+            "name": "Sandy Paws"
         },
         {
             "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "text": "\"We came here one time and we’re hooked after that!  Awesome place close to the beach and very chill!\"",
+            "name": "Kim and Joey Shell"
         },
         {
             "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "text": "\"A great place on Topsail Island for relaxing, wine tasting, and conversation.\"",
+            "name": "Mary and Steve Odum"
         },
         {
             "img": "img/testimonials/04.jpg",
