@@ -74,18 +74,18 @@
         },
         {
             "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "text": "\"A really great place to chill out and listen to some live music!\"",
+            "name": "Vincent Pietrogiacomo"
         },
         {
             "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "text": "\"Thanks to The Second Row for having all of us musicians and bands, and for the great attendance at these performances. This has become one of THE places to go in Surf City!\"",
+            "name": "Roger Alvis"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"An incubator for great new local talent (and darn good beer too!)\"",
+            "name": "Ineke and Paul Lawrence"
         }
     ],
     "Team": [{
