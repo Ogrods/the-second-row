@@ -36,7 +36,7 @@ export const Contact = (props) => {
                       <input
                         type='text'
                         id='contactName'
-                        name='contactName'
+                        name='ontactName'
                         className='form-control'
                         placeholder='Name'
                         required
@@ -109,12 +109,12 @@ export const Contact = (props) => {
               <div className='social'>
                 <ul>
                   <li>
-                    <a href={props.data ? props.data.facebook : '/'} target="_blank">
+                    <a href={props.data ? props.data.facebook : '/'} rel='noreferrer' target="_blank">
                       <i className='fa fa-facebook'></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.instagram : '/'} target="_blank">
+                    <a href={props.data ? props.data.instagram : '/'} rel='noreferrer' target="_blank">
                       <i className='fa fa-instagram'></i>
                     </a>
                   </li>
@@ -128,7 +128,7 @@ export const Contact = (props) => {
         <div className='container text-center'>
           <p>
             &copy; 2021 Design by{' '}
-            <a href='http://www.danogrodnik.com' rel='nofollow' target="_blank">
+            <a href='http://www.danogrodnik.com' rel='noreferrer' target="_blank">
               Dan Ogrodnik
             </a>
           </p>
