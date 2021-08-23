@@ -6,6 +6,7 @@ export const About = (props) => {
           <div className='col-xs-12 col-md-6'>
             {' '}
             <img src='img/about.jpg' className='img-responsive' alt='' />{' '}
+            {/* <h4 className="name-title">Bernie and Marie - Owner/Operators</h4> */}
           </div>
           <div className='col-xs-12 col-md-6'>
             <div className='about-text'>
