@@ -36,7 +36,7 @@ export const Contact = (props) => {
                       <input
                         type='text'
                         id='contactName'
-                        name='ontactName'
+                        name='contactName'
                         className='form-control'
                         placeholder='Name'
                         required
