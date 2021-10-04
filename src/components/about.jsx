@@ -23,7 +23,7 @@ export const About = (props) => {
                       : 'loading'}
                   </ul>
                 </div>
-
+                <p>Please check our <a href="#social">Facebook</a> for up-to-date seasonal hours and special events!</p>
               </div>
             </div>
           </div>

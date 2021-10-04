@@ -106,7 +106,7 @@ export const Contact = (props) => {
           </div>
           <div className='col-md-12'>
             <div className='row'>
-              <div className='social'>
+              <div id="social" className='social'>
                 <ul>
                   <li>
                     <a href={props.data ? props.data.facebook : '/'} rel='noreferrer' target="_blank">

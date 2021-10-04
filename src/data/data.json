@@ -9,13 +9,11 @@
     "About": {
         "paragraph": "\"It started with a dream, and it took a while, but it happened! A programmer/ musician and a pharmacist have finally found their happy place and it is in Surf City, NC. Three wonderful kids, four dogs, two cats, and a cyclone of family and friends have been our moral support to get us to our place here in the sun. Thirty-nine years of marriage has made us strong and determined to spend the rest of our love and lives doing what we love to do, and that is to provide beer, wine, and entertainment. Hopefully you can find time during your busy vacation to visit us at The Second Row! P.S. There are 2 resident pups, and their names are Lilly and K.C.\" --- Bernie and Marie, Owner/Operators",
         "Hours": [
-            "Monday - Closed",
-            "Tuesday - Closed",
-            "Wednesday - 11am to 4pm",
-            "Thursday - 11am to 4pm",
-            "Friday - 12pm to 11pm",
+            "Monday-Thursday - Closed",
+            "Friday - 3pm to 11pm",
             "Saturday - 12pm to 11pm",
             "Sunday - 12pm to 6pm"
+            
         ],
         "Why2": [
             "Aliquip ex ea commodo",
